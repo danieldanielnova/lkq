@@ -1,0 +1,1 @@
+scrapy crawl lkq -o items.csv -t csv
